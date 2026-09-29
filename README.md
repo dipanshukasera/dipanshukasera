@@ -21,7 +21,6 @@ I'm a **Backend Developer** with **4+ years of experience** building and scaling
 - 📬 I deploy and manage **Mautic** — SMTP, SSL, segments, campaigns and email workflows
 - 🔗 I build **integrations** with Salesforce, SMS gateways, biometric attendance systems and AI services
 - ⬆️ I handle **Moodle upgrades & migrations** (3.9 → 5.0, 4.1 → 5.0.2) with data migration and performance tuning
-- 🏢 Currently a **Moodle Developer at Turbostart Technology Development Centre**
 - 🌏 Based in **India** · Languages: Hindi, English
 
 ---
@@ -111,8 +110,11 @@ I'm a **Backend Developer** with **4+ years of experience** building and scaling
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipanshukasera&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshukasera&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=dipanshukasera&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipanshukasera&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipanshukasera&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
